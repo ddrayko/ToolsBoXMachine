@@ -20,6 +20,7 @@
 
 ```bash
 npm install
+npm i -g vite
 ```
 
 4. Launch the local development server:
